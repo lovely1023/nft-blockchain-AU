@@ -1,0 +1,2 @@
+{"_id":{"$oid":"60f6c0a36680e2584cc48f82"},"sStatus":"Active","sName":"Image","sCreated":{"$date":"2021-07-20T12:25:07.656Z"},"__v":0}
+{"_id":{"$oid":"60f6c0ab6680e2584cc48f87"},"sStatus":"Active","sName":"Audio","sCreated":{"$date":"2021-07-20T12:25:15.498Z"},"__v":0}
